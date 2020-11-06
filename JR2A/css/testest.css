@@ -1,0 +1,10 @@
+table, th, td 
+{
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+.borderTdSuppr{
+   border-style: none;
+}

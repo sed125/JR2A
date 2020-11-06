@@ -1,0 +1,14 @@
+a:link
+{
+    color:black;
+}
+
+a:visited
+{
+    color: white;
+}
+
+li a:link
+{
+    color:black;
+}

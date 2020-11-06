@@ -1,0 +1,13 @@
+@media screen and (min-width: 650px) and (max-width: 1920px) {
+
+    form {
+        float: center;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    form {
+        float: center;
+    }
+}
